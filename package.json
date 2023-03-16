@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.7.0",
+    "apollo-server": "3.3.19",
+    "graphql": "15.8.0"
+  }
+}
